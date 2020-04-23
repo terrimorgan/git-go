@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git-go/static/css/main.d1b05096.chunk.css",
+    "main.js": "/git-go/static/js/main.405f8339.chunk.js",
+    "main.js.map": "/git-go/static/js/main.405f8339.chunk.js.map",
+    "runtime-main.js": "/git-go/static/js/runtime-main.b15d12f3.js",
+    "runtime-main.js.map": "/git-go/static/js/runtime-main.b15d12f3.js.map",
+    "static/js/2.fa628831.chunk.js": "/git-go/static/js/2.fa628831.chunk.js",
+    "static/js/2.fa628831.chunk.js.map": "/git-go/static/js/2.fa628831.chunk.js.map",
+    "index.html": "/git-go/index.html",
+    "precache-manifest.8b3b2dd69c789244cb15fad7fabaf1a2.js": "/git-go/precache-manifest.8b3b2dd69c789244cb15fad7fabaf1a2.js",
+    "service-worker.js": "/git-go/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/git-go/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.fa628831.chunk.js.LICENSE.txt": "/git-go/static/js/2.fa628831.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/git-go/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b15d12f3.js",
+    "static/js/2.fa628831.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.405f8339.chunk.js"
+  ]
+}
