@@ -4,8 +4,20 @@ This is a sample project for learning git
 
 This is a [React](https://reactjs.org/) application that is deployed to [GitHub Pages](https://pages.github.com/) and should be accessible [here](https://Zulu-Inuoe.github.io/git-go)
 
+## Dev Environment
+To test locally, make sure all npm dependencies are installed via
+```sh
+npm install
+```
+then run the React development server via
+```sh
+npm run start
+```
+
+This should open your default browser at [http://localhost:3000/git-go](http://localhost:3000/git-go). Changing the source should dynamically reload the site for fast feedback while making changes.
+
 ## Deploying
-To deploy, make sure to have node dependencies installed via
+To deploy, make sure to have npm dependencies installed via
 ```sh
 npm install
 ```
