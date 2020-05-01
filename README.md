@@ -7,11 +7,11 @@ This is a [React](https://reactjs.org/) application that is deployed to [GitHub 
 ## Deploying
 To deploy, make sure to have node dependencies installed via
 ```sh
-$ npm install
+npm install
 ```
 then run the deploy step
 ```sh
-$ npm run deploy
+npm run deploy
 ```
 this will 
 
