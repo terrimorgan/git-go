@@ -1,1 +1,0 @@
-{"version":3,"sources":["Presentation.css"],"names":[],"mappings":"AAAA,iBACE,WAAY,CACZ,WACF,CAEA,WACE,WAAY,CACZ,SACF","file":"main.dd394900.chunk.css","sourcesContent":[".slide-container {\r\n  margin: auto;\r\n  height: 100%;\r\n}\r\n\r\n.each-fade {\r\n  margin: auto;\r\n  width: 50%;\r\n}\r\n"]}
