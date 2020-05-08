@@ -25,7 +25,8 @@ const slides = [s1, s2, s3, s4, s5, s6, s7, s8, s9];
 export default function (props) {
   return (
     <div className="slide-container">
-      <Fade {...fadeProperties}>{slides}</Fade>
+      <h1>Learn from the Git-go</h1>
+      <Fade className="box-style" {...fadeProperties}>{slides}</Fade>
     </div>
   );
 }

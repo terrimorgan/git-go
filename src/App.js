@@ -4,8 +4,8 @@ import Presentation from './Presentation/Presentation'
 
 function App() {
   return (
-    <div>
-      <h1>Learn from the Git-go</h1>
+    <div className="presentation-container">
+      {/* <h1>Learn from the Git-go</h1> */}
       <Presentation />
     </div>
   );
