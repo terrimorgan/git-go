@@ -4,7 +4,7 @@ import Participant from '../Participant'
 
 const participants = [
   'Wilfredo Velázquez-Rodríguez',
-  'Jennifer Pollack'
+  'Jennifer Pollack',
   'Chelsea Irish'
 ];
 
