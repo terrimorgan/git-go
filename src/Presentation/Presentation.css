@@ -14,6 +14,10 @@ body {
   margin-top: 2em;
 }
 
+.shell {
+  background-color: rgb(230, 230, 230);
+}
+
 .each-fade {
   margin: auto;
   width: 50%;
