@@ -12,6 +12,7 @@ import s6 from './Slides/06';
 import s7 from './Slides/07';
 import s8 from './Slides/08';
 import s9 from './Slides/09';
+import s10 from './Slides/10';
 
 const fadeProperties = {
   arrows: true,
@@ -20,7 +21,7 @@ const fadeProperties = {
   autoplay: false
 };
 
-const slides = [s1, s2, s3, s4, s5, s6, s7, s8, s9];
+const slides = [s1, s2, s3, s4, s5, s6, s7, s8, s9, s10];
 
 export default function (props) {
   return (
