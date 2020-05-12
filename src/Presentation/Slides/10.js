@@ -12,7 +12,7 @@ export default
   <p>
     Add your name to the list to show you've been here!
     <ul>
-      {participants.map(name => <li><Participant name={name} /></li>)}
+      {participants.map(name => <li><Participant name={Jennifer Pollack} /></li>)}
     </ul>
   </p>
 </div>
