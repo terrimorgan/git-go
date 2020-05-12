@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/git-go/static/css/main.40ce7a65.chunk.css",
-    "main.js": "/git-go/static/js/main.8b0b6e46.chunk.js",
-    "main.js.map": "/git-go/static/js/main.8b0b6e46.chunk.js.map",
+    "main.js": "/git-go/static/js/main.366a8e3b.chunk.js",
+    "main.js.map": "/git-go/static/js/main.366a8e3b.chunk.js.map",
     "runtime-main.js": "/git-go/static/js/runtime-main.b15d12f3.js",
     "runtime-main.js.map": "/git-go/static/js/runtime-main.b15d12f3.js.map",
     "static/css/2.2b4a2b75.chunk.css": "/git-go/static/css/2.2b4a2b75.chunk.css",
     "static/js/2.0148fcc9.chunk.js": "/git-go/static/js/2.0148fcc9.chunk.js",
     "static/js/2.0148fcc9.chunk.js.map": "/git-go/static/js/2.0148fcc9.chunk.js.map",
     "index.html": "/git-go/index.html",
-    "precache-manifest.9197316c4e96af91a4c8255458417e99.js": "/git-go/precache-manifest.9197316c4e96af91a4c8255458417e99.js",
+    "precache-manifest.db2cbaf11bf74c5599c2a02588417745.js": "/git-go/precache-manifest.db2cbaf11bf74c5599c2a02588417745.js",
     "service-worker.js": "/git-go/service-worker.js",
     "static/css/2.2b4a2b75.chunk.css.map": "/git-go/static/css/2.2b4a2b75.chunk.css.map",
     "static/css/main.40ce7a65.chunk.css.map": "/git-go/static/css/main.40ce7a65.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.2b4a2b75.chunk.css",
     "static/js/2.0148fcc9.chunk.js",
     "static/css/main.40ce7a65.chunk.css",
-    "static/js/main.8b0b6e46.chunk.js"
+    "static/js/main.366a8e3b.chunk.js"
   ]
 }
