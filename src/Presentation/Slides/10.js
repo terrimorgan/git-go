@@ -3,7 +3,8 @@ import React from 'react';
 import Participant from '../Participant'
 
 const participants = [
-  'Wilfredo Velázquez-Rodríguez'
+  'Wilfredo Velázquez-Rodríguez',
+  'Jennifer Pollack'
 ];
 
 export default
@@ -12,7 +13,7 @@ export default
   <p>
     Add your name to the list to show you've been here!
     <ul>
-      {participants.map(name => <li><Participant name={Jennifer Pollack} /></li>)}
+      {participants.map(name => <li><Participant name={name} /></li>)}
     </ul>
   </p>
 </div>
