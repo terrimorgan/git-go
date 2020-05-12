@@ -3,7 +3,8 @@ import React from 'react';
 import Participant from '../Participant'
 
 const participants = [
-  'Wilfredo Velázquez-Rodríguez'
+  'Wilfredo Velázquez-Rodríguez',
+  'Chelsea Irish'
 ];
 
 export default
