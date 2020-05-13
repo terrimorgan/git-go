@@ -4,6 +4,7 @@ import Participant from '../Participant'
 
 const participants = [
   'Wilfredo Velázquez-Rodríguez'
+  'Maria Demesa'
 ];
 
 export default
