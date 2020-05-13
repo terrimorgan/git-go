@@ -3,7 +3,9 @@ import React from 'react';
 import Participant from '../Participant'
 
 const participants = [
-  'Wilfredo Velázquez-Rodríguez'
+  'Wilfredo Velázquez-Rodríguez',
+  'Jennifer Pollack',
+  'Chelsea Irish',
   'Maria Demesa'
 ];
 
