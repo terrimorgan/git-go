@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae465ce118cd4817f4321838fca5ca6c",
+    "revision": "a162f34b3257984b50b7ad908cef013a",
     "url": "/git-go/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/git-go/static/css/2.2b4a2b75.chunk.css"
   },
   {
-    "revision": "624b15d8cd2561b27e52",
+    "revision": "9c28591895a02a890071",
     "url": "/git-go/static/css/main.40ce7a65.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/git-go/static/js/2.0148fcc9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "624b15d8cd2561b27e52",
-    "url": "/git-go/static/js/main.366a8e3b.chunk.js"
+    "revision": "9c28591895a02a890071",
+    "url": "/git-go/static/js/main.51de7c4d.chunk.js"
   },
   {
     "revision": "0ddd8832501de3ceacb2",
