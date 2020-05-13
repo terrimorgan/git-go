@@ -2,7 +2,7 @@ import React from 'react';
 
 export default 
 <div className="each-fade">
-  <h2>What's version control?</h2>
+  <h2>What is version control?</h2>
   <p>Version control is about <b>history</b></p>
   <ul>
     <li>When did something change?</li>

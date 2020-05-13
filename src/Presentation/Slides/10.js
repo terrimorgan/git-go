@@ -6,7 +6,8 @@ const participants = [
   'Wilfredo Velázquez-Rodríguez',
   'Jennifer Pollack',
   'Chelsea Irish',
-  'Maria Demesa'
+  'Maria Demesa',
+  'Terri Morgan'
 ];
 
 export default
